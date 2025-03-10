@@ -4,7 +4,7 @@ body {
     margin: 0;
     padding: 0;
     color: #4A90E2; /* Soft blue text */
-    background-image: url('image/background.jpg');
+    background-image: url('background.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -99,7 +99,7 @@ footer {
     height: auto;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-    content: url('image/yourimage.jpg');
+    content: url('yourimage.jpg');
 }
 
 /* About Page Images */
@@ -117,15 +117,15 @@ footer {
 }
 
 .about-images img:nth-child(1) {
-    content: url('image/yourimage3.jpg');
+    content: url('yourimage3.jpg');
 }
 
 .about-images img:nth-child(2) {
-    content: url('image/yourimage3.jpg');
+    content: url('yourimage3.jpg');
 }
 
 .about-images img:nth-child(3) {
-    content: url('image/background.jpg');
+    content: url('background.jpg');
 }
 
 /* Gallery Page Images */
@@ -155,7 +155,7 @@ footer {
     height: auto;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-    content: url('image/yourimage.jpg');
+    content: url('yourimage.jpg');
 }
 
 
